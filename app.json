@@ -24,6 +24,6 @@
         "STRING": {
             "description": "Pyrogram string session.",
             "value": ""
-        },
+        }
     },
 }
